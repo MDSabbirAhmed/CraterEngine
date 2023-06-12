@@ -1,0 +1,4 @@
+pi-billion.txt was collected from MIT and as the name suggests, the file contains to the billionth decimal point of the number PI.
+
+we dont need that much precision for any practical project as only to 16th point is enough for planetary level precision roughly speaking.
+we are good to go with to 8th decimal value of pi.
